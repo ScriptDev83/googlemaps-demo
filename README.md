@@ -10,7 +10,7 @@ Open index.html.
 
 ## Online demo in GitHub (gh-pages)
 
-http://iloire.github.com/backbonejs-googlemaps-demo/
+http://github.com/ScriptDev83/googlemaps-demo/
 
 ## Release History
 ### 0.1.0 Initial release
